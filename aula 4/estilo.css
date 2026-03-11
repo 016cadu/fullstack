@@ -3,14 +3,13 @@
     background-color: dodgerblue;
     /*flex-direction: row;
     flex-wrap: wrap;*/
-    flex-flow: row;
-    justify-content: flex-end;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: space-between;
 }
 
 .flex-container div {
     background-color: rgb(255, 255, 255);
-    padding:20px;
-    margin: 5px;
-    font-size: 30px;
-    width: 50px;
+    padding:10px;
+    margin: 10px;
 }
