@@ -17,6 +17,7 @@
 
 #d10{
     order: 2;
+    flex-grow: 1;
 }
 
 #d20{
