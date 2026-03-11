@@ -6,6 +6,7 @@
     flex-flow: row wrap;
     justify-content: center;
     align-content: space-between;
+    height: 400px;
 }
 
 .flex-container div {
