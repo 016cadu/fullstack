@@ -1,0 +1,9 @@
+.flex-container {
+    display: flex;
+    background-color: dodgerblue;
+}
+
+.flex-container div {
+    background-color: cadetblue;
+    margin: 20px;
+}
