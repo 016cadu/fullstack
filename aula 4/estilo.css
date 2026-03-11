@@ -23,3 +23,11 @@
 #d20{
     order: 1;
 }
+
+#d19{
+    flex-basis: 200px;
+}
+
+#d18{
+    align-self: self-end;
+}
