@@ -47,8 +47,9 @@ p {
 }
 
 .tabela {
+    display: flex;
+    justify-content: center;
     border-style: dashed 2px red;
-
 }
 
 .tabela #tabela-1 {
