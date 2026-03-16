@@ -66,6 +66,7 @@ th {
 }
 
 .sites {
-    display: flex;
-    justify-content: center;
+    background-color: yellow;
+    padding: 20px;
+    width: 100px;
 }
