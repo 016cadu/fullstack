@@ -1,3 +1,7 @@
+.bakground{
+    background-color: lightgray;
+}
+
 .flex-container{
     display: flex;
     background-color: bisque;
