@@ -65,10 +65,13 @@ th {
     justify-content: center;
 }
 
-.sites {
+.container-sites {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.sites {
     background-color: yellow;
     padding: 20px;
     width: 500px;
