@@ -2,11 +2,12 @@
     display: flex;
     background-color: bisque;
     height: 250px;
+    flex-flow: row nowrap;
     justify-content: space-between;
 }
 
 .titulo{
-    
+
     color: darkgreen;
     font-size: 20px;
 }
