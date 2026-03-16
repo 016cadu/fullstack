@@ -48,8 +48,6 @@ p {
 
 table {
     border: 5px dashed red;
-    display: flex;
-    justify-content: center;
 }
 
 th, td {
