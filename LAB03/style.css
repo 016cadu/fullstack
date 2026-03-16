@@ -18,7 +18,8 @@
     background-color: lightskyblue;
     height: 50px;
     flex-flow: row nowrap;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 120px;
     align-items: center;
     color: darkred;
 }
