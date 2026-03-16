@@ -46,10 +46,7 @@ p {
     gap: 100px;
 }
 
-table {
-    border: 5px dashed red;
-    
-}
+
 
 th, td {
     border: 1px solid red;
@@ -64,4 +61,5 @@ th {
 .tabela {
     display: flex;
     justify-content: center;
+    border: 5px dashed red;
 }
