@@ -48,6 +48,7 @@ p {
 
 table {
     border: 5px dashed red;
+    text-align: center;
 }
 
 th, td {
