@@ -3,3 +3,9 @@
     background-color: bisque;
     height: 300px;
 }
+
+.titulo{
+    text-align: center;
+    color: darkgreen;
+    font-size: 50px;
+}
