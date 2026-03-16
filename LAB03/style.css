@@ -12,3 +12,12 @@
     color: darkgreen;
     font-size: 30px;
 }
+
+.barra-azul{
+    display: flex;
+    background-color: lightskyblue;
+    height: 50px;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
