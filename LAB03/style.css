@@ -1,4 +1,5 @@
 .flex-container{
     display: flex;
     background-color: bisque;
+    height: 150px;
 }
