@@ -63,5 +63,4 @@ th {
 .tabela {
     display: flex;
     justify-content: center;
-    border: 5px dashed red;
 }
