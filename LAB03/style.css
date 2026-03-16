@@ -1,7 +1,7 @@
 .flex-container{
     display: flex;
     background-color: bisque;
-    border: solid 5px indigo;
+    border: solid 5px darkblue;
     height: 250px;
     flex-flow: row nowrap;
     justify-content: space-between;
@@ -19,7 +19,7 @@
     height: 50px;
     flex-flow: row nowrap;
     justify-content: center;
-    gap: 110px;
+    gap: 115px;
     align-items: center;
     color: darkred;
     font-size: 15pt;
