@@ -7,7 +7,7 @@
     justify-content: space-between;
 }
 
-.titulo{
+.flex-container #titulo{
     text-align: center;
     color: darkgreen;
     font-size: 30px;
