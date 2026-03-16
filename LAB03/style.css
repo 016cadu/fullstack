@@ -48,7 +48,7 @@ p {
 
 table {
     border: 5px dashed red;
-    width: 50%;
+    margin: 50%
 }
 
 th, td {
