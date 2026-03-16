@@ -48,7 +48,7 @@ p {
 
 table {
     border: 5px dashed red;
-
+    
 }
 
 th, td {
@@ -59,4 +59,9 @@ th, td {
 th {
     color: red;
     text-align: center;
+}
+
+.tabela {
+    display: flex;
+    justify-content: center;
 }
