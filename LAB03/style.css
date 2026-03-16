@@ -47,7 +47,8 @@ p {
 }
 
 table {
-    border: 2px dashed red;
+    border: 5px dashed red;
+    justify-content: center;
 }
 
 th, td {
