@@ -46,7 +46,7 @@ p {
     gap: 100px;
 }
 
-.tabela #borda-tabela {
+table {
     border: 5px dashed red;
 }
 
