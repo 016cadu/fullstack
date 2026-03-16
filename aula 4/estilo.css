@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    background-color: dodgerblue;
+    /*flex-direction: row;
+    flex-wrap: wrap;*/
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: space-between;
+    height: 400px;
+}
+
+.flex-container div {
+    background-color: rgb(255, 255, 255);
+    padding:10px;
+    margin: 10px;
+}
+
+#d10{
+    order: 2;
+    flex-grow: 1;
+}
+
+#d20{
+    order: 1;
+}
+
+#d19{
+    flex-basis: 200px;
+}
+
+#d18{
+    align-self: self-end;
+}
