@@ -37,5 +37,5 @@ p {
 .livros {
     display: flex;
     justify-content: center;
-    gap:30px
+    gap:100px
 }
