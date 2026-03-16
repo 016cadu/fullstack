@@ -64,3 +64,9 @@ th {
     display: flex;
     justify-content: center;
 }
+
+.sites {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
