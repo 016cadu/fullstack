@@ -77,6 +77,16 @@ th {
     height: 110px;
 }
 
-.cor-link{
-    color: darkred;
+.flex-container2{
+    display: flex;
+    background-color: bisque;
+    height: 150px;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-container2 #final{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 15pt;
 }
