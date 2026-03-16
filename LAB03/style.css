@@ -47,9 +47,7 @@ p {
 }
 
 table {
-    border-collapse: collapse;
-    width: 100%;
-    border: 1px solid red;
+    border: 2px dashed red;
 }
 
 th, td {
