@@ -45,3 +45,12 @@ p {
     justify-content: center;
     gap: 100px;
 }
+
+.tabela {
+    border-style: dashed 2px red;
+
+}
+
+.tabela #tabela-1 {
+    color: red;
+}
