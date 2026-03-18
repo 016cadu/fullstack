@@ -1,8 +1,94 @@
-#h1{
-    color: green;
-    border: solid 2px blue;
-    background-color: #fce4c4;
-    margin: 20px;
-    width: 1860px;
+.flex-container{
+    display: flex;
+    background-color: bisque;
+    border: solid 5px darkblue;
+    height: 250px;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-container #titulo{
+    color: darkgreen;
+    font-size: 30px;
+}
+
+.barra-azul{
+    display: flex;
+    background-color: lightskyblue;
+    height: 50px;
+    flex-flow: row nowrap;
+    justify-content: center;
+    gap: 115px;
+    align-items: center;
+    color: darkred;
+    font-size: 15pt;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20pt;
+    color: indigo;
+    font-family: "SansSerif", "arial", cursive;
+}
+
+.livros {
+    display: flex;
+    justify-content: center;
+    gap:100px
+}
+
+.iframes {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+table {
+    border: 5px dashed red;
+}
+
+th, td {
+    border: 1px solid red;
+    text-align: center;
+}
+
+th {
+    color: red;
+    text-align: center;
+}
+
+.tabela {
+    display: flex;
+    justify-content: center;
+}
+
+.container-sites {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sites {
+    background-color: yellow;
+    width: 500px;
+    height: 110px;
+}
+
+.flex-container2{
+    display: flex;
+    background-color: bisque;
     height: 150px;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-container2 #final{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 15pt;
 }
