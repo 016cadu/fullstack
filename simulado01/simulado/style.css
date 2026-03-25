@@ -1,0 +1,26 @@
+.cabecalho {
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.primeira_foto{
+    background-color: rgb(115, 75, 148);
+    width: 200px;
+    height: 200px;
+}
+
+.primeira_foto {
+    color: white;
+    align-items: center;
+    align-content: center;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    font-size: 20px;
+}
