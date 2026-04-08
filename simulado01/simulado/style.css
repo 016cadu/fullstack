@@ -8,19 +8,41 @@
 
 .primeira_foto{
     background-color: rgb(115, 75, 148);
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
-.primeira_foto {
+.primeira_foto .texto1{
     color: white;
-    align-items: center;
-    align-content: center;
+    margin: 13px;
 }
 
 .links {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 5px;
     font-size: 20px;
+    color: rgb(54, 110, 148);
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.a6{
+    display: flex;
+    justify-content: center;
+}
+
+.a6 #a7 {
+    display: flex;
+    flex-direction: column;
+    color: rgb(54, 110, 148);
+}
+
+.a6 #a8 {
+    display: flex;
+    flex-direction: column;
 }
